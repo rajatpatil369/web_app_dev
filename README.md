@@ -1,1 +1,1 @@
-# django_web_app
+# web_app_dev
